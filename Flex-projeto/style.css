@@ -47,7 +47,9 @@ header .list-items{
     color: #fff;
 }
 
-header .menu{
+header .corpo-menu{
+    display: flex;
+    width: 100%;
     justify-content: space-between;
 }
 
